@@ -13,4 +13,4 @@ Service Workers, Sketch, Typography, UI, Usability, User Experience, Wallpapers,
 WordPress, Workflow. If you're interested in any of these topics, I recommend checking
 out the website! Also the website is really easy to navigate and it's designed well (as expected)
 
-**Priya Chaganti: ** I found this website so easy to use and visually appealing, which makes it easier for me to trust that what they are teaching me on the site, actually works! I love the variety of information I can find on it, making it a one-stop-shop for learning about front end work.
+**Priya Chaganti:** I found this website so easy to use and visually appealing, which makes it easier for me to trust that what they are teaching me on the site, actually works! I love the variety of information I can find on it, making it a one-stop-shop for learning about front end work.
